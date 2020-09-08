@@ -7,13 +7,23 @@ The entire procedure for building the neural network is listed in document clear
 # Result Analysis
 The name of the disease that the leaf is affected by and provide proper remedies and displays the how the disease  affects the crop and why the disease has occured.
 # modules Used
-TKinter- To create the GUI for displaying the disese 
-shutil - This module helps in automating process of copying,moving and removal of files and directories
-os     - dealing with directories...The OS module in Python provides a way of using operating system dependent functionality. The functions that the OS module provides allows you          to interface with the underlying operating system that Python is running on – be that Windows, Mac or Linux
-PIL    - Python Imaging Library. Python Imaging Library (abbreviated as PIL) (in newer versions known as Pillow) is a free library for the Python programming language that adds            support for opening, manipulating, and saving many different image file formats. It is available for Windows, Mac OS X and Linux.
-sys    - The sys module provides information about constants, functions and methods of the Python interpreter. dir(system) gives a summary of the available constants, functions            and methods. Another possibility is the help() function. Using help(sys) provides valuable detail information.
-cv2    - working with, mainly resizing, images (open source computer vision)
-numpy  - dealing with arrays operations...since images are stored in a matrix form we should numpy to process the images
-tqdm   - a nice pretty percentage bar for tasks
-matplotlib - for Plotting the graphs
-Tflearn  -  TFlearn is a modular and transparent deep learning library built on top of Tensorflow. It was designed to provide a higher-level API to TensorFlow in order to                     facilitate and speed-up experimentations, while remaining fully transparent and compatible with it
+# TKinter
+To create the GUI for displaying the disese 
+# shutil 
+This module helps in automating process of copying,moving and removal of files and directories
+# os     
+dealing with directories...The OS module in Python provides a way of using operating system dependent functionality. The functions that the OS module provides allows you          to interface with the underlying operating system that Python is running on – be that Windows, Mac or Linux
+# PIL    
+Python Imaging Library. Python Imaging Library (abbreviated as PIL) (in newer versions known as Pillow) is a free library for the Python programming language that adds            support for opening, manipulating, and saving many different image file formats. It is available for Windows, Mac OS X and Linux.
+# sys    
+The sys module provides information about constants, functions and methods of the Python interpreter. dir(system) gives a summary of the available constants, functions            and methods. Another possibility is the help() function. Using help(sys) provides valuable detail information.
+# cv2    
+working with, mainly resizing, images (open source computer vision)
+# numpy  
+dealing with arrays operations...since images are stored in a matrix form we should numpy to process the images
+# tqdm   
+a nice pretty percentage bar for tasks
+# matplotlib 
+for Plotting the graphs
+# Tflearn  
+TFlearn is a modular and transparent deep learning library built on top of Tensorflow. It was designed to provide a higher-level API to TensorFlow in order to                     facilitate and speed-up experimentations, while remaining fully transparent and compatible with it
